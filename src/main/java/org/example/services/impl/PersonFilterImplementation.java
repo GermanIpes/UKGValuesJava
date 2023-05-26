@@ -8,9 +8,9 @@ import org.example.model.UKGvalues;
 //En UKG estamos buscando a los mejores astronautas, para eso, necesitamos implmenetar
 //un filtro con unos requisitos minimos para poder ser nuestro astronauta estrella
 //REGLAS:
-//  1- Cada empleado debe tener al menos 3 attitudes definidas en el enum UKGValues
-//  2- Cada empleado debe ser KIND
-//  3- Cada empleado debe ser RESPECTFUL
+//  1- Cada astronauta debe tener al menos 3 attitudes definidas en el enum UKGValues
+//  2- Cada astronauta debe ser KIND
+//  3- Cada astronauta debe ser RESPECTFUL
 public class PersonFilterImplementation implements PersonFilter {
     @Override
     public Boolean filterPersonByAttitudes(Person person) {
