@@ -5,7 +5,8 @@ import org.example.services.PersonFilter;
 import org.example.model.UKGvalues;
 
 //Bienvenidos al code challenge nivel facil UKG
-//Deben implementar un filtro para poder ser empleado de UKG:
+//En UKG estamos buscando a los mejores astronautas, para eso, necesitamos implmenetar
+//un filtro con unos requisitos minimos para poder ser nuestro astronauta estrella
 //REGLAS:
 //  1- Cada empleado debe tener al menos 3 attitudes definidas en el enum UKGValues
 //  2- Cada empleado debe ser KIND
