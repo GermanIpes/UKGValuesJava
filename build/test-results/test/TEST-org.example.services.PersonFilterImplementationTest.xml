@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.services.PersonFilterImplementationTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-05-19T13:54:05" hostname="US-23L5TQ3" time="0.028">
+<testsuite name="org.example.services.PersonFilterImplementationTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-05-26T20:05:29" hostname="US-23L5TQ3" time="0.109">
   <properties/>
-  <testcase name="validatePersonWith3Attitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.023"/>
-  <testcase name="validatePersonWith2Attitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.001"/>
-  <testcase name="validatePersonWith3AttitudesWithoutRespectful()" classname="org.example.services.PersonFilterImplementationTest" time="0.0"/>
-  <testcase name="validatePersonWith3AttitudesWithoutKind()" classname="org.example.services.PersonFilterImplementationTest" time="0.0"/>
-  <testcase name="validatePersonWith1Attitude()" classname="org.example.services.PersonFilterImplementationTest" time="0.001"/>
-  <testcase name="validatePersonWithoutAttitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.0"/>
-  <testcase name="validatePersonWithMoreThan3Attitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.0"/>
+  <testcase name="validatePersonWith3Attitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.069"/>
+  <testcase name="validatePersonWith2Attitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.005"/>
+  <testcase name="validatePersonWith3AttitudesWithoutRespectful()" classname="org.example.services.PersonFilterImplementationTest" time="0.003"/>
+  <testcase name="validatePersonWith3AttitudesWithoutKind()" classname="org.example.services.PersonFilterImplementationTest" time="0.003"/>
+  <testcase name="validatePersonWith1Attitude()" classname="org.example.services.PersonFilterImplementationTest" time="0.004"/>
+  <testcase name="validatePersonWithoutAttitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.003"/>
+  <testcase name="validatePersonWithMoreThan3Attitudes()" classname="org.example.services.PersonFilterImplementationTest" time="0.006"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
